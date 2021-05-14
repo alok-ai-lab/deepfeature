@@ -1,1 +1,7 @@
+title: DeepFeature Package
+description: The package has been tested on Ubuntu 18.10 with Matlab R2020a
 theme: jekyll-theme-cayman
+show_downloads: "true"
+github:
+  zip_url: https://github.com/alok-ai-lab/deepfeature/raw/master/archive/DeepFeature_pkg.zip
+  tar_url: https://github.com/alok-ai-lab/deepfeature/raw/master/archive/DeepFeature_pkg.tar.gz
