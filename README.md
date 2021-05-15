@@ -190,8 +190,9 @@ A number of parameters/variables are used to control the DeepFeature_pkg. The de
 
 14. Log and performance file (including an overview of parameter information)
 
-    The runtime results will be stored in `~/DeepFeature/DeepInsight_Results.txt` with complete information about the run.
+    The runtime results will be stored in `~/DeepFeature/DeepFeature_Results.txt` with complete information about the run.
 
 ## DeepInsight
 
 A YouTube video about the original DeepInsight method is available [here](https://www.youtube.com/watch?v=411iwaptk24&feature=youtu.be).
+A Matlab page on DeepInsight can be viewed from [here](https://www.mathworks.com/company/user_stories/case-studies/riken-develops-a-method-to-apply-cnn-to-non-image-data.html).
