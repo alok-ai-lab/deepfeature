@@ -1,6 +1,8 @@
 # DeepFeature
 
 DeepFeature converts non-image samples into image-form and performs element selection via convolutional neural network (CNN). This approach builds an image by arranging elements (or genes) by finding similarity among them and then by mapping the non-image values on to these aligned pixel locations. This approach employs CNN for element or gene selection on non-image data. A real world application of DeepFeature to publicly available cancer data identified gene sets with significant overlap to several cancer-associated pathways suggesting the potential of this method to discover biomedically meaningful connections. 
+# Reference 
+Sharma A, Lysenko A, Boroevich KA, Vans E, Tsunoda T, DeepFeature: feature selection in nonimage data using convolutional neural network, Briefings in Bioinformatics, 22(6), bbab297, 2021
 
 ## Download and Install
 
